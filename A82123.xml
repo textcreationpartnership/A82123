@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the armie to His Excellency the Lord General Cromwel, for the dissolving of this present Parliament, and chusing of a new representative. With their proposals and desires touching 1 The government of this nation. 2 The liberty and freedom of the people. 3 An account to be given of the great sums of money received. 4 The taking off all taxes. 5 The setting free of prisoners that are not worth 5l.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82123</idno>
+            <idno type="STC">Wing D641</idno>
+            <idno type="STC">Thomason E673_13</idno>
+            <idno type="STC">ESTC R207182</idno>
+            <idno type="EEBO-CITATION">99866252</idno>
+            <idno type="PROQUEST">99866252</idno>
+            <idno type="VID">166260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166260)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E673[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the armie to His Excellency the Lord General Cromwel, for the dissolving of this present Parliament, and chusing of a new representative. With their proposals and desires touching 1 The government of this nation. 2 The liberty and freedom of the people. 3 An account to be given of the great sums of money received. 4 The taking off all taxes. 5 The setting free of prisoners that are not worth 5l.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Smithson, and are to be sold at the Royal Exchange in Cornhill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August. 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166260:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE ARMIE To His Excellency The Lord General CROMWEL, FOR The diſſolving of this preſent Parliament, and chuſing of a new Repreſentative.</p>
+            <p>WITH Their Propoſals and Deſires touching
+<list>
+                  <item>1 The Government of this Nation.</item>
+                  <item>2 The Liberty and Freedom o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the People.</item>
+                  <item>3 An account to be given of the great ſums of Money received.</item>
+                  <item>4 The taking off all Taxes.</item>
+                  <item>5 The ſetting free of priſoners that are not worth 5 l.</item>
+               </list>
+            </p>
+            <p>
+               <add>August 10</add> Imprinted at London, for John Smithſon, and are to be ſold at the Royal Exchange in Cornhill, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_of_the_army">
+            <pb facs="tcp:166260:2"/>
+            <pb n="3" facs="tcp:166260:2"/>
+            <head>A DECLARATION OF THE ARMY, To His Excellency the Lord General Cromwel, for the diſſolving of this preſent Parlia<g ref="char:EOLhyphen"/>ment.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Officers of the Army having had ſundry Conſultations and Conferences, touching the diſſolv<g ref="char:EOLhyphen"/>ing of this preſent Parliament, and electing of a new Repreſentative; after much time
+<pb n="4" facs="tcp:166260:3"/>ſpent in debate thereof, proceeded to a period of their Reſults, grounded upon publike ſafety; and in purſuance thereof, preſented a Model of their Propoſals, to his Excellency the Lord Generall Cromwel; with the ſubſcriptions of moſt of the Officers of the Army; And by a general Condeſ<g ref="char:EOLhyphen"/>cenſion, it was drew up in a Declaratory-Way to the Parliament; but exceeding high they are in their Propoſals. But what will enſue, or be reſolved upon time will manifeſt.</p>
+            <p>In ſhort, the current runs thus; For redreſſing of the groanes and heavy oppreſſures of the people, both in City and Countrey, and the enjoyment of freedom throughout the Nation, according to the ſeveral Engagements and Proteſtations of the Offi<g ref="char:EOLhyphen"/>cers and Souldiery; and which hath been purchaſed at a dear rate by the expence of much blond.</p>
+            <p>For, indeed, to deſire liberty, and ſhun ſervitude, is natural to very beaſts; and man ſeeming to be of worſe condition than brute beaſts, which as rational paſs by the greater delights of ſenſe to ſhun ſubje<g ref="char:EOLhyphen"/>ction; he as irrational, paſſing by the better reaſons of the underſtanding, precipitates himſelf into ſer<g ref="char:EOLhyphen"/>vitude, as if ſlavery were the greateſt ſenſuality. The great God of Heaven hath made all ſoules equall, all bodies of the ſame materials; and if the Divine
+<pb n="5" facs="tcp:166260:3"/>Power endow one ſpecies with more noblenes then another, yet He does not ſo in individuals. Where<g ref="char:EOLhyphen"/>fore ſhal we then make ſome greater then all, whom Nature hath not made greater then any one? If a Commonwealth be liberty, a Kingdom is ſervitude; nor is it the more to be praiſed if it be voluntary; rather he is more to be blamed who ſerves out of weakneſs, then he who ſerves enforſt by Neceſſity.</p>
+            <p>When time requires recourſe to daring, there ought no recourſe be had to patience: patience doth well in generous breaſts, to aſſwage, neceſſity, and there it becomes fortitude: In all other places 'tis baſeneſs of mind, unleſs it be aſſumed when time ſerves, to be laid aſide when time ſerves.</p>
+            <p>In a Word, there is nothing more deſired by the Army, then the publike ſafety, liberty, and freedom of the People; who deſire, that the ancient and ſo<g ref="char:EOLhyphen"/>veraign Law, called Salus Populi, ſhould be for ever kept inviolate, All other Laws, Cuſtoms, Conqueſts in that Caſe provided and uſurped whatſoever, in any wiſe, notwithſtanding.</p>
+            <p>And in purſuance thereof, have propoſed a way for redreſs of all Grievances, as evidently appears by theſe enſuing particulars, to wit;
+<list>
+                  <pb n="6" facs="tcp:166260:4"/>
+                  <item>1 That there be an account given of the vaſt ſums of money, collected ſeveral wayes throughout this Nation.</item>
+                  <item>2 That an account be given by all Trea<g ref="char:EOLhyphen"/>ſurers, Committees, and others, how the ſaid ſums have been disburſed, and for what uſe and ſervice they have reſpectively been employed.</item>
+                  <item>3 That a new Repreſentative be forth<g ref="char:EOLhyphen"/>with elected.</item>
+                  <item>4 That the heavy burdens of the people be removed, and all Oppreſſures and Taxes taken off, that ſo the poor may no longer be inſulted over by the rich; but that truth, equity, and juſtice, may abound amongſt them.</item>
+                  <item>5 That Courts of Judicature be reduced into a ſmaller number, and the Officers not to exceed in number; but that both them<g ref="char:EOLhyphen"/>ſelves, and their Revenues, be equally ſet down and ſtated.</item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:166260:4"/>
+            <p> Many other particulars of great con<g ref="char:EOLhyphen"/>cernment are agitating; and amongſt the reſt, An Act for the redreſs and delivery of poor priſoners, which are not able to ſatisfie their debts, being impoveriſhed beneath the value of 5 l. ſpeedy care is taken for the ex<g ref="char:EOLhyphen"/>pediting thereof.</p>
+            <p>But me thinks, Gentlemen, I hear a re<g ref="char:EOLhyphen"/>ſounding eccho from ſome diſtemper'd ſpi<g ref="char:EOLhyphen"/>rits, who ſay, That injuries received, tend to the ruine of men, who with the zeal of ho<g ref="char:EOLhyphen"/>nour do not accompany wiſdom; they run upon revenge for paſt-wrongs, and throw themſelves headlong upon new miſeries; they would amend one errour and produce a thouſand.</p>
+            <p>Too much haſte is as much before time, as too much delay is out of time: Errours of impatience are worſe then Errours of de<g ref="char:EOLhyphen"/>lay; for it is better to ſhun precipices, than to run upon them: if they be not hindred
+<pb n="8" facs="tcp:166260:5"/>they will be retarded. Juſtice is not believed to be there, where violence is obſerved to be; nor can it be accounted wiſdom, where there is no argumentation. Argumentation is not had in an inſtant; Time is not meaſured by inſtants; and things which have not bin done in times paſt, may well be effected in times to come. For, truly, never was there an Army, who deſired to purchaſe freedom for their Countrey, more then theſe; and, indeed, well may they be called, the Acade<g ref="char:EOLhyphen"/>my of Europe; or, an Army of Saints, by reaſon, that their Diſcipline is compos'd both in a ſpiritual and temporal War<g ref="char:EOLhyphen"/>fare.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
